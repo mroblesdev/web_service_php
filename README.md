@@ -1,7 +1,7 @@
 # Web Service RESTful con PHP y MySQL
 
 ## Requerimientos 📋
-- Servicodr Web Apache
+- Servidor Web Apache
 - PHP 5 o superior (5, 7, 8)
 - MySQL 5.6 o superior
 - Extensión PDO habilitada en php.ini
