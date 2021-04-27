@@ -2,14 +2,14 @@
 
 ## Requerimientos 📋
 - Servidor Web Apache
-- PHP 5 o superior (5, 7, 8)
+- PHP 5.6 o superior (5, 7, 8)
 - MySQL 5.6 o superior
 - Extensión PDO habilitada en php.ini
 
-## Intrucciones de uso
-- Desacargar proyecto
-- Crear base de datos (web_service) e importar archivo web_service.sql
-- Cambiar los datos de acceso en conexión.php
+## Instrucciones de uso
+- Descargar proyecto
+- Crear base de datos (web_service) e importar archivo ```web_service.sql```
+- Cambiar los datos de acceso en ```conexión.php```
 
 ## Autores ✒️
 - **Marko Robles** - *Desarrollo* - [markorobles](https://github.com/markorobles)
