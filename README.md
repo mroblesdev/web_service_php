@@ -12,7 +12,7 @@
 - Cambiar los datos de acceso en ```conexión.php```
 
 ## Autores ✒️
-- **Marko Robles** - *Desarrollo* - [markorobles](https://github.com/markorobles)
+- **Marko Robles** - *Desarrollo* - [mroblesdev](https://github.com/mroblesdev)
 
 ## Licencia 📄
 
